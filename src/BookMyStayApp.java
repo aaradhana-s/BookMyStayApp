@@ -52,7 +52,7 @@ class SuiteRoom extends Room {
 }
 
 // Main application class
-public class RoomAvailabilityApp {
+public class BookMySta {
     public static void main(String[] args) {
         // Create room objects
         Room singleRoom = new SingleRoom();

@@ -1,4 +1,3 @@
-
 public class Reservation {
 
     /** Name of the guest making the booking. */
